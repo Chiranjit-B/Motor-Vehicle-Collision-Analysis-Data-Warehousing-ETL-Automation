@@ -1,5 +1,6 @@
 # Motor-Vehicle-Collision-Analysis-Data-Warehousing-ETL-Automation 🚗💥📊
-![image](https://github.com/user-attachments/assets/0f0d31aa-524e-49d1-8e5c-97eb86296ad7)
+![ETL workflow](https://github.com/user-attachments/assets/04680cda-6cbd-4954-b9fb-1ddfa05ab1f0)
+
 
 📊 In this comprehensive piece, I delve into how advanced data engineering can transform public safety measures and enhance urban planning. From data acquisition and ETL processes to insightful visualizations, I cover the step-by-step methods we used to analyze and interpret traffic collision data across three major cities.
 
