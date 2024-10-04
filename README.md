@@ -1,6 +1,8 @@
 # Motor-Vehicle-Collision-Analysis-Data-Warehousing-ETL-Automation 🚗💥📊
 
-<img width="983" alt="Data Warehousing Work Flow" src="https://github.com/user-attachments/assets/ed527fb9-32dd-4416-81d2-893059c77181">
+
+<img width="983" alt="Data Warehousing Work Flow" src="https://github.com/user-attachments/assets/216e2f9f-6eb4-481c-b59d-5c240280237a">
+
 
 📊 In this comprehensive piece, I delve into how advanced data engineering can transform public safety measures and enhance urban planning. From data acquisition and ETL processes to insightful visualizations, I cover the step-by-step methods we used to analyze and interpret traffic collision data across three major cities.
 
